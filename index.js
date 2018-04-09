@@ -16,5 +16,3 @@ function holidayCountdown(holiday, days) {
 }
 
 
-var name = "Miyuki"
-console.log(happyHolidayTo(name))
